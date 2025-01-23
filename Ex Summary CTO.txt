@@ -1,0 +1,11 @@
+EXECUTIVE SUMMARY
+Technology executive with extensive experience driving technical innovation and organizational growth. Proven track record leading global development teams and implementing cutting-edge solutions across both startups and enterprise organizations.
+Currently serving as Chief Technology Officer at Sabio, where I:
+
+Lead a global team of 50+ developers, driving 10x company growth
+Pioneered AI-powered solutions leveraging OpenAI and Computer Vision
+Successfully delivered 130+ MVPs across diverse industries
+Built and fostered a network of 1,500+ alumni now employed at major tech companies including Amazon, Microsoft, and Google
+
+Combine deep technical expertise in full-stack development (.NET Core, JavaScript, AWS/Azure) with strategic leadership capabilities. Demonstrated ability to establish technical standards, manage technology budgets, and drive scalable architecture implementation while maintaining focus on business outcomes.
+Prior experience includes leadership roles at TMZ, MySpace, and founding CTO of MySoCalListings.com, providing a unique perspective that spans startup agility and enterprise-scale operations.
